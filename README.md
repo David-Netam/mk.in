@@ -1,4 +1,4 @@
 # index.html
 project
 # myfile.html
-![image](https://your-image-url.type)
+![image](https://raw.githubusercontent.com/DavidRajaaaa/mk.in/main/ssh_terminal.png)
